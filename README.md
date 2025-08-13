@@ -1,6 +1,6 @@
 <h1 align="center">🚀 Front-End Development Journey</h1>
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1542393545-10f5cde2c810?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjJ8fGxhcHRvcHxlbnwwfHwwfHx8MA%3D%3D" width="600" />
+  <img src="https://images.unsplash.com/photo-1542393545-10f5cde2c810?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjJ8fGxhcHRvcHxlbnwwfHwwfHx8MA%3D%3D" width="300" />
 </p>
 
 Welcome to my **Front-End Development Learning Repository**!  
