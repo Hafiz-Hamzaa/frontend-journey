@@ -1,6 +1,8 @@
 # 🚀 Front-End Development Journey
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1542393545-10f5cde2c810?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjJ8fGxhcHRvcHxlbnwwfHwwfHx8MA%3D%3D" width="600" />
+</p>
 
-![Frontend Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 Welcome to my **Front-End Development Learning Repository**!  
 Here, I’m documenting my journey of mastering **HTML**, **CSS**, **JavaScript**, **React**, **Bootstrap**, and **Git & GitHub** — all in **one organized place**.
@@ -17,8 +19,11 @@ Here, I’m documenting my journey of mastering **HTML**, **CSS**, **JavaScript*
 
 ---
 
-## 📈 My Progress
-![Progress GIF](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
+## 📸 Sneak Peek
+
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" />
+</p>
 
 This repository will grow **day by day** as I learn and build projects.
 
