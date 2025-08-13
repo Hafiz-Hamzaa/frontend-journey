@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>animated progress bar</title>
+    <style>
+        .progress-container{
+            width: 500px;
+            height: 40px;
+            background-color: gainsboro;
+            border-radius: 20px;
+        }
+        .progress-bar{
+            width: 50%;
+            height: 100%;
+            background-color: mediumorchid;
+            border-radius: 20px;
+            animation: bouncing-bar 2s ease-in-out 1s 2;
+        }
+        @keyframes bouncing-bar{
+            from{
+                width: 0%;
+            }
+            90%{
+                width: 95%;
+            }
+            95%{
+                width: 70%;
+            }
+            to{
+                width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="progress-container">
+        <div class="progress-bar">
+        </div>
+    </div>
+</body>
+</html>

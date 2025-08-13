@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Level 5 - CSS</title>
+    <style>
+        a{
+            text-decoration: none;
+            font-size: 20px;
+            display: block;
+            display: inline;
+            display: inline-block;
+            margin: 10px;
+            margin-left: 20px;
+        }
+        .box{
+            height: 60px;
+            width: 60px;
+            background-color: #750f0f;
+        }
+        .box{
+            display: inline-block;
+        }
+        #box-one{
+            position: relative;
+            top: 20px;
+        }
+        #box-two{
+            position: absolute;
+            bottom: 0px;
+        }
+        /* remaining sticky , fixed explore by yourslef & also z-index */
+        .my-box{
+            width: 190px;
+            height: 120px;
+            background-color: aqua;
+            margin-top: 30px;
+        }
+        .inner{
+            width: 50%;
+            height: 50%;
+            background-color: palevioletred;
+        }
+    </style>
+</head>
+<body>
+    <!-- display , position , relative units -->
+    <nav>
+        <a href="">Home</a>
+        <a href="">About</a>
+        <a href="">Contact</a>
+    </nav>
+    <div class="box" id="box-one"></div>
+    <div class="box" id="box-two"></div>
+    <div class="box"></div>
+    <div class="box"></div>
+
+    <div class="my-box">
+        <div class="inner"></div>
+    </div>
+
+    <!-- remaing em , rem ,vh , vw explore by yourslef -->
+</body>
+</html>

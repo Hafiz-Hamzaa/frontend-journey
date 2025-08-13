@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Level 1 - CSS</title>
+    <style>
+        h1{
+            color: red;
+        }
+        .myClass h2{
+            color: green;
+        }
+        input{
+            background-color: rgb(126, 54, 116);
+            border: none;
+            border-radius: 5px;
+        }
+        input::placeholder{
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <!-- Basics of CSS : 
+    --- Baic Syntax : h1 {color : green} --- h1 is a selector - color is a proerty - green is a value
+    --- Including Style Tag
+    --- 3 ways of Include Style --- Inline , Internal , External
+    --- CSS Selectors : id , class , element , grouping , descendent , universal
+    --- color & background  property
+    Browser Tools : Element , Console , Style , Network , Performance , Sources etc.
+    Elements → Page ka HTML & CSS structure dekhna aur live edit karna.
+    Styles → Selected element ka CSS rules dekhna/edit karna.
+    Console → JavaScript ka output, errors aur debugging commands run karna.
+    Sources → Page ke HTML, CSS, JS files ka code dekhna aur debug karna (breakpoints, etc.).
+    Network → Page ke resources ka load hona, requests/responses, size aur timing track karna.
+    Performance → Page ke rendering, scripts aur loading ka speed analysis.
+    Application → LocalStorage, SessionStorage, Cookies, IndexedDB, cache, service workers manage karna. -->
+    <h1>I am learning CSS!</h1>
+    <div class="myClass">
+        <h2>I am a Front End Developer</h2>
+    </div>
+    <input type="text" placeholder="name">
+</body>
+</html>
