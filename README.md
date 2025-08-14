@@ -4,7 +4,7 @@
 </p>
 
 Welcome to my **Front-End Development Learning Repository**!  
-Here, I’m documenting my journey of mastering **HTML**, **CSS**, **JavaScript**, **React**, **Bootstrap**, and **Git & GitHub** — all in **one organized place**.
+Here, I’m documenting my journey of mastering **HTML**, **CSS**, **JavaScript**, **React**, **Tailwind**, and **Git & GitHub** — all in **one organized place**.
 
 ---
 
@@ -13,7 +13,7 @@ Here, I’m documenting my journey of mastering **HTML**, **CSS**, **JavaScript*
 - 🎨 **CSS3** – Styling, Flexbox, Grid, Animations
 - ⚡ **JavaScript (ES6+)** – Logic, DOM, APIs
 - ⚛ **React JS** – Components, State, Props, Hooks
-- 💎 **Bootstrap 5** – Responsive UI framework
+- 💎 **Tailwind CSS** – Utilities Classes and Modern Framework
 - 🗂 **Git & GitHub** – Version control & collaboration
 
 ---
